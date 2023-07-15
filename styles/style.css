@@ -33,10 +33,10 @@ main {
 .sidebar button {
     padding: 20px 40px;
 }
-
+/* 
 .mainSection {
 
-}
+} */
 
 .row, .cartModal-body {
     display: grid;
