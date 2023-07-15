@@ -1,0 +1,42 @@
+{
+  "laptops": [
+    {
+      "name": "длтоибтл",
+      "description": "jlikjhjv",
+      "price": "6454545",
+      "trend": "ACER",
+      "image": "https://softech.kg/image/cache/0a1e93f60ab9c9d493ae4ba5a89adad0.jpg",
+      "win-code": 1.2312312312487237e+24,
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "ACER",
+      "win-code": 1.2312312312487237e+24,
+      "image": "https://login.kg/image/catalog/new/Notebook/Asus/ROG%20Strix%20Scar%2015/8.jpg",
+      "price": 1000,
+      "brand": "ACER",
+      "description": "SUPER LAPTOP",
+      "id": 1
+    },
+    {
+      "name": "длтоибтл",
+      "description": "jlikjhjv",
+      "price": "6454545",
+      "trend": "ACER",
+      "image": "https://softech.kg/image/cache/0a1e93f60ab9c9d493ae4ba5a89adad0.jpg",
+      "win-code": 1.2312312312487237e+24,
+      "id": 2
+    },
+    {
+      "name": "длтоибтл",
+      "description": "jlikjhjv",
+      "price": "6454545",
+      "trend": "ACER",
+      "image": "https://softech.kg/image/cache/0a1e93f60ab9c9d493ae4ba5a89adad0.jpg",
+      "win-code": 1.2312312312487237e+24,
+      "id": 3
+    }
+  ]
+}
